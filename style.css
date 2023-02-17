@@ -1,0 +1,86 @@
+a.titulo{
+    background-color: lightpink;
+    color: blue;
+    text-align: center;
+}
+
+div.GOYA{
+    background-color: lightpink;
+    text-align: center;
+}
+
+div.enlaces{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+a.enlace{
+    color: royalblue;
+}
+
+div.imagen1{
+    background-color: lightsalmon;
+    height: 420px;
+    width: 500px;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    left: 150px;
+}
+
+p.edicions{
+    color: blue;
+    text-align: center;
+}
+
+div.imagen2{
+    background-color: lightseagreen;
+    height: 420px;
+    width: 500px;
+    text-align: center;
+    position: relative;
+    top: -800px;
+    left: 580px;
+}
+
+p.nominats{
+    color: red;
+}
+
+div.imagen3{
+    background-color: lightsalmon;
+    height: 420px;
+    width: 500px;
+    text-align: center;
+    position: relative;
+    top: -320px;
+    left: 1020px;
+}
+
+p.contacte{
+    color: blue;
+}
+
+div.final{
+    background-color: yellow;
+    text-align: center;
+    height: 30px;
+}
+
+p.nom{
+    color: blue;
+}
+
+div.contacte{
+    color: blue;
+    background-color: lightsalmon;
+    text-align: center;
+    height: 400px;
+    width: 600px;
+}
+
+input.opinion{
+    width: 250px;
+    height: 180px;
+}
+
